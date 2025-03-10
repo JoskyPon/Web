@@ -1,0 +1,419 @@
+@media(max-width: 1280px) {
+
+  .container {
+    padding: 0;
+  }
+
+  .header__container {
+    padding-top: 28px;
+    padding-left: 47px;
+    padding-right: 47px;
+  }
+
+  .header__container__language {
+    padding-top: 19px;
+  }
+
+  .hero {
+    padding-top: 42px;
+    margin-bottom: 93px;
+  }
+
+  .hero__container {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .hero__text {
+    margin-bottom: 56px;
+    max-width: 640px;
+  }
+
+  .hero__block__img {
+    max-width: 928px;
+  }
+
+  .what-to-see {
+    margin-bottom: 92px;
+  }
+
+  .what-to-see__title,
+  .what-to-see__text,
+  .what-to-see__descr {
+    padding-left: 0;
+  }
+
+  .what-to-see__descr {
+    margin-bottom: 90px;
+  }
+
+  .what-to-see__container {
+    padding-left: 47px;
+    max-width: 700px;
+  }
+
+  .what-to-see__cards {
+    gap: 14px;
+    padding-left: 47px;
+  }
+
+  .cards__img {
+    width: 300px;
+  }
+
+
+  .places__comtainer {
+    padding: 0;
+    padding-left: 47px;
+    margin-right: 47px;
+
+  }
+
+  .places__card__text:not(:last-child) {
+    margin-bottom: 25px;
+  }
+
+
+  .places__block__title {
+    margin-right: 12px;
+  }
+
+  .places__card__img {
+    max-width: 440px;
+    margin-right: 33px;
+  }
+
+  .places {
+    margin-bottom: 92px;
+  }
+
+  .travel__container__text {
+    max-width: 560px;
+    padding: 195px 232px 194px 232px;
+  }
+
+  .container__text__title {
+    margin-bottom: 41px;
+  }
+
+  .footer__container {
+    padding-left: 47px;
+    padding-right: 47px;
+  }
+}
+
+@media (max-width: 1024px) {
+
+  .header__container {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+
+  .header__language-switch:first-child {
+    margin-right: 13px;
+  }
+
+  .hero {
+    margin-bottom: 88px;
+  }
+
+  .hero__text {
+    max-width: 650px;
+  }
+
+  .hero__block__img {
+    max-width: 768px;
+  }
+
+  .hero__block__descr {
+    padding-left: 23px;
+  }
+
+  .what-to-see {
+    margin-bottom: 88px;
+  }
+
+  .what-to-see__container {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  .what-to-see__title {
+    letter-spacing: -0.5px;
+  }
+
+  .what-to-see__descr {
+    margin-bottom: 87px;
+  }
+
+  .what-to-see__cards {
+    gap: 16px;
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+
+  .cards__img {
+    width: 352px;
+  }
+
+  .places__block__title {
+    margin-right: 38px;
+    width: 330px;
+    font-size: 42px;
+    line-height: 46px;
+  }
+
+  .places__comtainer {
+    padding-left: 24px;
+    padding-right: 24px;
+    margin-right: 0;
+  }
+
+  .places__block__links-long {
+    padding-top: 46px;
+  }
+
+
+  .places__card__img {
+    margin-right: 28px;
+    max-width: 340px;
+    max-height: 340px;
+    background-size: contain;
+  }
+
+  .places__card__text {
+    font-size: 16px;
+  }
+
+  .places__card:not(:last-child) {
+    margin-bottom: 72px;
+  }
+
+  .places__block__links {
+    padding-top: 0;
+  }
+
+  .places {
+    margin-bottom: 89px;
+  }
+
+  .travel__container__text {
+    padding: 115px 104px 114px 104px;
+  }
+
+  .container__text__title {
+    margin-bottom: 33px;
+    line-height: 76px;
+  }
+
+  .travel {
+    margin-bottom: 89px;
+  }
+
+  .footer__container {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+
+  .nav__item:not(:last-child) {
+    margin-right: 19px;
+  }
+}
+
+@media (max-width: 768px) {
+  .logo__img {
+    max-width: 142px;
+  }
+
+  .header__container {
+    padding-top: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .header__container__language {
+    padding-top: 14px;
+  }
+
+  .header__language-switch {
+    font-size: 18px;
+    line-height: 20px;
+  }
+
+  .hero {
+    margin-bottom: 64px;
+  }
+
+  .hero__title {
+    margin-bottom: 16px;
+    width: 288px;
+    font-size: 40px;
+    line-height: 44px;
+  }
+
+  .hero__text {
+    margin-bottom: 40px;
+    max-width: 288px;
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  .hero__block__img {
+    max-width: 320px;
+  }
+
+  .what-to-see {
+    margin-bottom: 64px;
+  }
+
+  .what-to-see__container {
+    padding-left: 16px;
+    padding-right: 16px;
+    max-width: 288px;
+  }
+
+  .what-to-see__title {
+    font-size: 32px;
+    line-height: 35px;
+  }
+
+  .what-to-see__text {
+    margin-bottom: 7px;
+  }
+
+  .what-to-see__descr {
+    margin-bottom: 64px;
+  }
+
+  .what-to-see__cards {
+    padding-left: 16px;
+    padding-right: 16px;
+    gap: 12px;
+  }
+
+  .cards__img {
+    width: 288px;
+  }
+
+  .places__comtainer {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .places__block__title {
+    font-size: 32px;
+    line-height: 35px;
+  }
+
+  .block__links__descr {
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 2px;
+  }
+
+  .block__links__link {
+    font-size: 18px;
+    line-height: 22px;
+  }
+
+  .places {
+    margin-bottom: 66px;
+  }
+
+  .places__comtainer {
+    padding: 0;
+  }
+
+  .places__block {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-bottom: 32px;
+  }
+
+  .places__block__links-long {
+    padding-top: 32px;
+  }
+
+  .places__card {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
+  .places__card__img {
+    margin: 0;
+    margin-bottom: 31px;
+    max-width: 320px;
+    max-height: 320px;
+  }
+
+  .places__card__descr {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .places__card:not(:last-child) {
+    margin-bottom: 75px;
+  }
+
+  .places__block__links {
+    padding-top: 32px;
+  }
+
+  .travel {
+    margin-bottom: 65px;
+  }
+
+  .travel__container__text {
+    padding: 33px 16px;
+  }
+
+  .container__text__title {
+    margin-bottom: 16px;
+    max-width: 250px;
+    font-size: 32px;
+    line-height: 35px;
+  }
+
+  .container__text__descr {
+    max-width: 260px;
+    font-size: 14px;
+    line-height: 16px;
+  }
+
+  .footer__container {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin-bottom: 0;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .nav__list {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin-bottom: 46px;
+  }
+
+  .nav__item {
+    margin: 0;
+  }
+
+  .nav__item:not(:last-child) {
+    margin-bottom: 32px;
+  }
+
+  .nav__item__link {
+    font-size: 24px;
+    line-height: 24px;
+  }
+}
